@@ -1,0 +1,5 @@
+train: HelmetDataset/images/train
+val: HelmetDataset/images/valid
+test: HelmetDataset/images/test
+nc: 2
+names: ['helmet', 'no_helmet']
